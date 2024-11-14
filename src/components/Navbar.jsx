@@ -1,6 +1,5 @@
 import React from "react";
-// import our custome css file
-import "./Navbar.css";
+
 
 //rsr
 //rafce
