@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/Lexicon.svg";
+import logo from "../images/logo-lexicon.gif";
 import styles from "../components/styles/Navbar.module.css";
 
 const Navbar = () => {
