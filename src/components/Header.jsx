@@ -6,7 +6,7 @@ const Header = () => {
     <header className='bg-primary text-white text-center py-5'>
         <div className='container'>
             <h1>Marketplace UI!</h1>
-            <p></p>
+            <p>Advertisement List</p>
         </div>
     </header>
   )
