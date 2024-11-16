@@ -1,10 +1,10 @@
 import React from 'react'
 import styles from '../components/styles/Ads.module.css'
-import AdCards from './adCards'
+import adCards from './adCards'
 const Ads = () => {
   return (
     <div className={styles.container} >
-      <AdCards />
+      <adCards />
     </div>
   )
 }
