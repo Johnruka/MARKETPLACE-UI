@@ -8,9 +8,7 @@ function App() {
 
   return (
     <>
-      <Navbar />
-      <Header />
-      <Ads />
+     index.html
     </>
   )
 }
